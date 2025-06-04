@@ -10,7 +10,7 @@ def select_operation(choice):
     elif choice == 2:
         return sum_2
     else:
-        raise ValueError("Некорректный выбор. Допустимые значения: 1 или 2.")
+        raise ValueError("Допустимые значения: 1 или 2.")
 
 print("Сумма 1 (n=5):", select_operation(1)(3))
 print("Сумма 2 (n=2, m=3):", select_operation(2)(2, 3))
