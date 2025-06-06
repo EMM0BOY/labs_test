@@ -1,0 +1,9 @@
+test_delete_nonexistent_service (password_manager_5.TestPasswordManager.test_delete_nonexistent_service) ... ok
+test_delete_password (password_manager_5.TestPasswordManager.test_delete_password) ... ok
+test_get_password_returns_none_if_service_not_found (password_manager_5.TestPasswordManager.test_get_password_returns_none_if_service_not_found) ... ok
+test_save_and_get_password (password_manager_5.TestPasswordManager.test_save_and_get_password) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.000s
+
+OK
